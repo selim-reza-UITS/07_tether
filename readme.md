@@ -114,4 +114,4 @@ Contributions and suggestions are welcome! Please fork the repository and open a
 # Contact
 For questions or feedback, please reach out at [selim.reza.uits@gmail.com].
 
-# Happy gifting with Bestowe! 🎁✨
+# Happy voice contacting with people! 🎁✨
