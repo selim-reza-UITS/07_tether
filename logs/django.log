@@ -1,0 +1,55 @@
+[2025-07-02 08:26:36,776] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:27:47,316] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:28:14,043] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:29:26,459] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:31:46,327] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:32:28,688] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:33:45,570] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:47:46,486] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:48:45,297] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:50:21,461] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:51:21,970] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 08:51:40,183] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:00:45,690] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:01:06,875] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:38:09,483] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:38:22,062] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:39:01,558] INFO [django.utils.autoreload] /home/reza/Code/_django_boilerplate/_core/_core/settings/base.py changed, reloading.
+[2025-07-02 09:39:01,800] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:40:10,038] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:41:11,449] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:41:27,838] INFO [django.utils.autoreload] /home/reza/Code/_django_boilerplate/_core/coreapi/apps.py changed, reloading.
+[2025-07-02 09:41:28,060] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:41:31,187] INFO [django.utils.autoreload] /home/reza/Code/_django_boilerplate/_core/coreapi/apps.py changed, reloading.
+[2025-07-02 09:41:31,376] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:41:52,856] INFO [django.utils.autoreload] /home/reza/Code/_django_boilerplate/_core/coreapi/apps.py changed, reloading.
+[2025-07-02 09:41:53,067] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:43:05,688] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-07-02 09:43:25,203] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:04:12,452] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:04:57,440] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:10:10,930] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:15:18,330] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:22:31,845] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/coreapi/api_endpoints.py changed, reloading.
+[2025-08-05 13:22:32,073] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:22:34,271] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:26:11,096] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/_core/settings/settings_tweaks/app_config.py changed, reloading.
+[2025-08-05 13:26:11,297] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:26:16,464] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/_core/settings/settings_tweaks/app_config.py changed, reloading.
+[2025-08-05 13:26:16,660] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:26:37,859] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/app/dashboard/models.py changed, reloading.
+[2025-08-05 13:26:38,068] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:45:26,494] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:45:34,906] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:48:51,079] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:49:49,591] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:50:47,134] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/coreapi/api_endpoints.py changed, reloading.
+[2025-08-05 13:50:47,365] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:51:14,676] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/app/dashboard/views.py changed, reloading.
+[2025-08-05 13:51:14,907] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:51:45,245] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/app/dashboard/serializers/accounts_serializers.py changed, reloading.
+[2025-08-05 13:51:45,478] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:52:31,513] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:59:02,801] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 13:59:48,530] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-05 14:00:14,071] INFO [django.utils.autoreload] Watching for file changes with StatReloader
