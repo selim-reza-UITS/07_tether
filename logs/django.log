@@ -54,3 +54,562 @@
 [2025-08-05 13:59:48,530] INFO [django.utils.autoreload] Watching for file changes with StatReloader
 [2025-08-05 14:00:14,071] INFO [django.utils.autoreload] Watching for file changes with StatReloader
 [2025-08-12 09:53:19,371] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-12 10:02:23,859] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-12 10:03:38,707] INFO [myproject] ➡️  GET / | IP: 127.0.0.1
+[2025-08-12 10:03:38,805] INFO [myproject] ⬅️  200 GET / | ⏱️ 0.10s
+[2025-08-12 10:03:38,805] INFO [django.server] "GET / HTTP/1.1" 200 15760
+[2025-08-12 10:03:38,817] INFO [myproject] ➡️  GET /static/drf-yasg/style.css | IP: 127.0.0.1
+[2025-08-12 10:03:38,818] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | IP: 127.0.0.1
+[2025-08-12 10:03:38,818] INFO [myproject] ➡️  GET /static/debug_toolbar/css/toolbar.css | IP: 127.0.0.1
+[2025-08-12 10:03:38,819] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | IP: 127.0.0.1
+[2025-08-12 10:03:38,821] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | IP: 127.0.0.1
+[2025-08-12 10:03:38,823] INFO [myproject] ➡️  GET /static/drf-yasg/insQ.min.js | IP: 127.0.0.1
+[2025-08-12 10:03:38,856] INFO [myproject] ⬅️  200 GET /static/debug_toolbar/css/toolbar.css | ⏱️ 0.04s
+[2025-08-12 10:03:38,858] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | ⏱️ 0.04s
+[2025-08-12 10:03:38,859] INFO [myproject] ⬅️  200 GET /static/drf-yasg/style.css | ⏱️ 0.04s
+[2025-08-12 10:03:38,860] INFO [django.server] "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 16675
+[2025-08-12 10:03:38,860] INFO [django.server] "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2025-08-12 10:03:38,861] INFO [myproject] ➡️  GET /static/drf-yasg/immutable.min.js | IP: 127.0.0.1
+[2025-08-12 10:03:38,867] INFO [myproject] ⬅️  200 GET /static/drf-yasg/insQ.min.js | ⏱️ 0.04s
+[2025-08-12 10:03:38,869] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | ⏱️ 0.05s
+[2025-08-12 10:03:38,871] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | ⏱️ 0.05s
+[2025-08-12 10:03:38,871] INFO [django.server] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2025-08-12 10:03:38,872] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+[2025-08-12 10:03:38,873] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+[2025-08-12 10:03:38,874] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-init.js | IP: 127.0.0.1
+[2025-08-12 10:03:38,874] INFO [myproject] ➡️  GET /static/debug_toolbar/js/toolbar.js | IP: 127.0.0.1
+[2025-08-12 10:03:38,887] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+[2025-08-12 10:03:38,891] INFO [myproject] ⬅️  200 GET /static/drf-yasg/immutable.min.js | ⏱️ 0.03s
+[2025-08-12 10:03:38,892] INFO [django.server] "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+[2025-08-12 10:03:38,896] INFO [myproject] ⬅️  200 GET /static/debug_toolbar/js/toolbar.js | ⏱️ 0.02s
+[2025-08-12 10:03:38,898] INFO [django.server] "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 14601
+[2025-08-12 10:03:38,900] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-init.js | ⏱️ 0.03s
+[2025-08-12 10:03:38,900] INFO [django.server] "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+[2025-08-12 10:03:39,002] INFO [myproject] ➡️  GET /static/debug_toolbar/css/print.css | IP: 127.0.0.1
+[2025-08-12 10:03:39,003] INFO [myproject] ➡️  GET /static/debug_toolbar/js/utils.js | IP: 127.0.0.1
+[2025-08-12 10:03:39,014] INFO [myproject] ⬅️  200 GET /static/debug_toolbar/js/utils.js | ⏱️ 0.01s
+[2025-08-12 10:03:39,016] INFO [myproject] ⬅️  200 GET /static/debug_toolbar/css/print.css | ⏱️ 0.01s
+[2025-08-12 10:03:39,017] INFO [django.server] "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4742
+[2025-08-12 10:03:39,017] INFO [django.server] "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+[2025-08-12 10:03:39,061] INFO [myproject] ➡️  GET /?format=openapi | IP: 127.0.0.1
+[2025-08-12 10:03:39,078] ERROR [myproject] 🔥 Exception in GET /?format=openapi: Field name `mobile` is not valid for model `User` in `app.accounts.serializers.signup_serializers.UserSignupSerializer`.
+Traceback (most recent call last):
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 140, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/openapi.py", line 685, in setdefault
+    ret = maker()
+          ^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 109, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `mobile` is not valid for model `User` in `app.accounts.serializers.signup_serializers.UserSignupSerializer`.
+[2025-08-12 10:03:39,079] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png | IP: 127.0.0.1
+[2025-08-12 10:03:39,108] ERROR [django.request] Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 140, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/openapi.py", line 685, in setdefault
+    ret = maker()
+          ^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 109, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `mobile` is not valid for model `User` in `app.accounts.serializers.signup_serializers.UserSignupSerializer`.
+[2025-08-12 10:03:39,113] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png | ⏱️ 0.03s
+[2025-08-12 10:03:39,114] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+[2025-08-12 10:03:39,222] INFO [myproject] ⬅️  500 GET /?format=openapi | ⏱️ 0.16s
+[2025-08-12 10:03:39,223] ERROR [django.server] "GET /?format=openapi HTTP/1.1" 500 254043
+[2025-08-12 10:03:39,424] INFO [myproject] ➡️  GET /test/api/v1/__debug__/history_sidebar/?store_id=70839d8cc1b44fa794e20325ee1fe067 | IP: 127.0.0.1
+[2025-08-12 10:03:39,438] INFO [myproject] ⬅️  200 GET /test/api/v1/__debug__/history_sidebar/?store_id=70839d8cc1b44fa794e20325ee1fe067 | ⏱️ 0.01s
+[2025-08-12 10:03:39,438] INFO [django.server] "GET /test/api/v1/__debug__/history_sidebar/?store_id=70839d8cc1b44fa794e20325ee1fe067 HTTP/1.1" 200 10206
+[2025-08-12 10:03:59,420] INFO [myproject] ➡️  GET / | IP: 127.0.0.1
+[2025-08-12 10:03:59,448] INFO [myproject] ⬅️  200 GET / | ⏱️ 0.03s
+[2025-08-12 10:03:59,448] INFO [django.server] "GET / HTTP/1.1" 200 15759
+[2025-08-12 10:03:59,461] INFO [myproject] ➡️  GET /static/drf-yasg/style.css | IP: 127.0.0.1
+[2025-08-12 10:03:59,462] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | IP: 127.0.0.1
+[2025-08-12 10:03:59,462] INFO [myproject] ➡️  GET /static/debug_toolbar/css/toolbar.css | IP: 127.0.0.1
+[2025-08-12 10:03:59,462] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | IP: 127.0.0.1
+[2025-08-12 10:03:59,462] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | IP: 127.0.0.1
+[2025-08-12 10:03:59,463] INFO [myproject] ➡️  GET /static/drf-yasg/insQ.min.js | IP: 127.0.0.1
+[2025-08-12 10:03:59,494] INFO [myproject] ⬅️  304 GET /static/drf-yasg/style.css | ⏱️ 0.03s
+[2025-08-12 10:03:59,496] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | ⏱️ 0.03s
+[2025-08-12 10:03:59,496] INFO [django.server] "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+[2025-08-12 10:03:59,497] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+[2025-08-12 10:03:59,498] INFO [myproject] ⬅️  304 GET /static/drf-yasg/insQ.min.js | ⏱️ 0.04s
+[2025-08-12 10:03:59,499] INFO [myproject] ➡️  GET /static/drf-yasg/immutable.min.js | IP: 127.0.0.1
+[2025-08-12 10:03:59,499] INFO [django.server] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+[2025-08-12 10:03:59,501] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-init.js | IP: 127.0.0.1
+[2025-08-12 10:03:59,505] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | ⏱️ 0.04s
+[2025-08-12 10:03:59,507] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/css/toolbar.css | ⏱️ 0.04s
+[2025-08-12 10:03:59,507] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+[2025-08-12 10:03:59,507] INFO [django.server] "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-12 10:03:59,508] INFO [myproject] ➡️  GET /static/debug_toolbar/js/toolbar.js | IP: 127.0.0.1
+[2025-08-12 10:03:59,511] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | ⏱️ 0.05s
+[2025-08-12 10:03:59,512] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+[2025-08-12 10:03:59,526] INFO [myproject] ⬅️  304 GET /static/drf-yasg/immutable.min.js | ⏱️ 0.03s
+[2025-08-12 10:03:59,527] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-init.js | ⏱️ 0.03s
+[2025-08-12 10:03:59,527] INFO [django.server] "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+[2025-08-12 10:03:59,528] INFO [django.server] "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+[2025-08-12 10:03:59,530] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/js/toolbar.js | ⏱️ 0.02s
+[2025-08-12 10:03:59,530] INFO [django.server] "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-08-12 10:03:59,589] INFO [myproject] ➡️  GET /static/debug_toolbar/css/print.css | IP: 127.0.0.1
+[2025-08-12 10:03:59,590] INFO [myproject] ➡️  GET /static/debug_toolbar/js/utils.js | IP: 127.0.0.1
+[2025-08-12 10:03:59,598] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/css/print.css | ⏱️ 0.01s
+[2025-08-12 10:03:59,599] INFO [django.server] "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-12 10:03:59,601] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/js/utils.js | ⏱️ 0.01s
+[2025-08-12 10:03:59,602] INFO [django.server] "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-08-12 10:03:59,672] INFO [myproject] ➡️  GET /?format=openapi | IP: 127.0.0.1
+[2025-08-12 10:03:59,684] ERROR [myproject] 🔥 Exception in GET /?format=openapi: Field name `mobile` is not valid for model `User` in `app.accounts.serializers.signup_serializers.UserSignupSerializer`.
+Traceback (most recent call last):
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 140, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/openapi.py", line 685, in setdefault
+    ret = maker()
+          ^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 109, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `mobile` is not valid for model `User` in `app.accounts.serializers.signup_serializers.UserSignupSerializer`.
+[2025-08-12 10:03:59,707] ERROR [django.request] Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/views.py", line 112, in get
+    schema = generator.get_schema(request, self.public)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 276, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 482, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/generators.py", line 524, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 32, in get_operation
+    body = self.get_request_body_parameters(consumes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 85, in get_request_body_parameters
+    schema = self.get_request_body_schema(serializer)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/view.py", line 142, in get_request_body_schema
+    return self.serializer_to_schema(serializer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 438, in serializer_to_schema
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 49, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 140, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/openapi.py", line 685, in setdefault
+    ret = maker()
+          ^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/drf_yasg/inspectors/field.py", line 109, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1103, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1249, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/reza/Code/07_joshlong/venv/lib/python3.12/site-packages/rest_framework/serializers.py", line 1367, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `mobile` is not valid for model `User` in `app.accounts.serializers.signup_serializers.UserSignupSerializer`.
+[2025-08-12 10:03:59,811] INFO [myproject] ⬅️  500 GET /?format=openapi | ⏱️ 0.14s
+[2025-08-12 10:03:59,812] ERROR [django.server] "GET /?format=openapi HTTP/1.1" 500 254042
+[2025-08-12 10:04:00,013] INFO [myproject] ➡️  GET /test/api/v1/__debug__/history_sidebar/?store_id=58bf687432774ff59ee998ee98bdf3bb | IP: 127.0.0.1
+[2025-08-12 10:04:00,024] INFO [myproject] ⬅️  200 GET /test/api/v1/__debug__/history_sidebar/?store_id=58bf687432774ff59ee998ee98bdf3bb | ⏱️ 0.01s
+[2025-08-12 10:04:00,025] INFO [django.server] "GET /test/api/v1/__debug__/history_sidebar/?store_id=58bf687432774ff59ee998ee98bdf3bb HTTP/1.1" 200 10205
+[2025-08-12 10:05:21,470] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/app/accounts/serializers/signup_serializers.py changed, reloading.
+[2025-08-12 10:05:21,723] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-12 10:05:28,922] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/app/accounts/serializers/signup_serializers.py changed, reloading.
+[2025-08-12 10:05:29,151] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-12 10:05:30,421] INFO [myproject] ➡️  GET / | IP: 127.0.0.1
+[2025-08-12 10:05:30,479] INFO [myproject] ⬅️  200 GET / | ⏱️ 0.06s
+[2025-08-12 10:05:30,479] INFO [django.server] "GET / HTTP/1.1" 200 15759
+[2025-08-12 10:05:30,489] INFO [myproject] ➡️  GET /static/drf-yasg/style.css | IP: 127.0.0.1
+[2025-08-12 10:05:30,493] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | IP: 127.0.0.1
+[2025-08-12 10:05:30,494] INFO [myproject] ➡️  GET /static/debug_toolbar/css/toolbar.css | IP: 127.0.0.1
+[2025-08-12 10:05:30,495] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | IP: 127.0.0.1
+[2025-08-12 10:05:30,497] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | IP: 127.0.0.1
+[2025-08-12 10:05:30,499] INFO [myproject] ➡️  GET /static/drf-yasg/insQ.min.js | IP: 127.0.0.1
+[2025-08-12 10:05:30,506] INFO [myproject] ⬅️  304 GET /static/drf-yasg/style.css | ⏱️ 0.02s
+[2025-08-12 10:05:30,506] INFO [django.server] "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+[2025-08-12 10:05:30,520] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/css/toolbar.css | ⏱️ 0.03s
+[2025-08-12 10:05:30,520] INFO [django.server] "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-12 10:05:30,521] INFO [myproject] ➡️  GET /static/drf-yasg/immutable.min.js | IP: 127.0.0.1
+[2025-08-12 10:05:30,530] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | ⏱️ 0.04s
+[2025-08-12 10:05:30,531] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+[2025-08-12 10:05:30,533] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | ⏱️ 0.04s
+[2025-08-12 10:05:30,533] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-init.js | IP: 127.0.0.1
+[2025-08-12 10:05:30,534] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+[2025-08-12 10:05:30,535] INFO [myproject] ➡️  GET /static/debug_toolbar/js/toolbar.js | IP: 127.0.0.1
+[2025-08-12 10:05:30,540] INFO [myproject] ⬅️  304 GET /static/drf-yasg/insQ.min.js | ⏱️ 0.04s
+[2025-08-12 10:05:30,540] INFO [django.server] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+[2025-08-12 10:05:30,542] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | ⏱️ 0.05s
+[2025-08-12 10:05:30,542] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+[2025-08-12 10:05:30,551] INFO [myproject] ⬅️  304 GET /static/drf-yasg/immutable.min.js | ⏱️ 0.03s
+[2025-08-12 10:05:30,552] INFO [django.server] "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+[2025-08-12 10:05:30,556] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-init.js | ⏱️ 0.02s
+[2025-08-12 10:05:30,556] INFO [django.server] "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+[2025-08-12 10:05:30,559] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/js/toolbar.js | ⏱️ 0.02s
+[2025-08-12 10:05:30,560] INFO [django.server] "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-08-12 10:05:30,606] INFO [myproject] ➡️  GET /static/debug_toolbar/css/print.css | IP: 127.0.0.1
+[2025-08-12 10:05:30,607] INFO [myproject] ➡️  GET /static/debug_toolbar/js/utils.js | IP: 127.0.0.1
+[2025-08-12 10:05:30,616] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/css/print.css | ⏱️ 0.01s
+[2025-08-12 10:05:30,616] INFO [django.server] "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-12 10:05:30,619] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/js/utils.js | ⏱️ 0.01s
+[2025-08-12 10:05:30,619] INFO [django.server] "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-08-12 10:05:30,671] INFO [myproject] ➡️  GET /?format=openapi | IP: 127.0.0.1
+[2025-08-12 10:05:30,683] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png | IP: 127.0.0.1
+[2025-08-12 10:05:30,698] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png | ⏱️ 0.02s
+[2025-08-12 10:05:30,699] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+[2025-08-12 10:05:30,715] INFO [myproject] ⬅️  200 GET /?format=openapi | ⏱️ 0.04s
+[2025-08-12 10:05:30,715] INFO [django.server] "GET /?format=openapi HTTP/1.1" 200 12456
+[2025-08-12 10:05:30,957] INFO [myproject] ➡️  GET /test/api/v1/__debug__/history_sidebar/?store_id=c6c3338689b54eea8db0e4b485d52d68 | IP: 127.0.0.1
+[2025-08-12 10:05:30,969] INFO [myproject] ⬅️  200 GET /test/api/v1/__debug__/history_sidebar/?store_id=c6c3338689b54eea8db0e4b485d52d68 | ⏱️ 0.01s
+[2025-08-12 10:05:30,969] INFO [django.server] "GET /test/api/v1/__debug__/history_sidebar/?store_id=c6c3338689b54eea8db0e4b485d52d68 HTTP/1.1" 200 10203
+[2025-08-12 10:07:11,132] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/coreapi/api_endpoints.py changed, reloading.
+[2025-08-12 10:07:11,355] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-12 10:07:12,506] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/coreapi/api_endpoints.py changed, reloading.
+[2025-08-12 10:07:12,735] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-12 10:07:13,706] INFO [myproject] ➡️  GET / | IP: 127.0.0.1
+[2025-08-12 10:07:13,764] INFO [myproject] ⬅️  200 GET / | ⏱️ 0.06s
+[2025-08-12 10:07:13,764] INFO [django.server] "GET / HTTP/1.1" 200 15759
+[2025-08-12 10:07:13,774] INFO [myproject] ➡️  GET /static/drf-yasg/style.css | IP: 127.0.0.1
+[2025-08-12 10:07:13,776] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | IP: 127.0.0.1
+[2025-08-12 10:07:13,777] INFO [myproject] ➡️  GET /static/debug_toolbar/css/toolbar.css | IP: 127.0.0.1
+[2025-08-12 10:07:13,778] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | IP: 127.0.0.1
+[2025-08-12 10:07:13,779] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | IP: 127.0.0.1
+[2025-08-12 10:07:13,781] INFO [myproject] ➡️  GET /static/drf-yasg/insQ.min.js | IP: 127.0.0.1
+[2025-08-12 10:07:13,805] INFO [myproject] ⬅️  304 GET /static/drf-yasg/style.css | ⏱️ 0.03s
+[2025-08-12 10:07:13,806] INFO [django.server] "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+[2025-08-12 10:07:13,813] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | ⏱️ 0.04s
+[2025-08-12 10:07:13,815] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/css/toolbar.css | ⏱️ 0.04s
+[2025-08-12 10:07:13,815] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+[2025-08-12 10:07:13,817] INFO [myproject] ➡️  GET /static/drf-yasg/immutable.min.js | IP: 127.0.0.1
+[2025-08-12 10:07:13,817] INFO [django.server] "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+[2025-08-12 10:07:13,818] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-init.js | IP: 127.0.0.1
+[2025-08-12 10:07:13,820] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | ⏱️ 0.04s
+[2025-08-12 10:07:13,821] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0
+[2025-08-12 10:07:13,822] INFO [myproject] ➡️  GET /static/debug_toolbar/js/toolbar.js | IP: 127.0.0.1
+[2025-08-12 10:07:13,824] INFO [myproject] ⬅️  304 GET /static/drf-yasg/insQ.min.js | ⏱️ 0.04s
+[2025-08-12 10:07:13,824] INFO [django.server] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+[2025-08-12 10:07:13,828] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | ⏱️ 0.05s
+[2025-08-12 10:07:13,829] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 304 0
+[2025-08-12 10:07:13,842] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-init.js | ⏱️ 0.02s
+[2025-08-12 10:07:13,843] INFO [django.server] "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+[2025-08-12 10:07:13,845] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/js/toolbar.js | ⏱️ 0.02s
+[2025-08-12 10:07:13,845] INFO [django.server] "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+[2025-08-12 10:07:13,846] INFO [myproject] ⬅️  304 GET /static/drf-yasg/immutable.min.js | ⏱️ 0.03s
+[2025-08-12 10:07:13,846] INFO [django.server] "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+[2025-08-12 10:07:13,890] INFO [myproject] ➡️  GET /static/debug_toolbar/css/print.css | IP: 127.0.0.1
+[2025-08-12 10:07:13,891] INFO [myproject] ➡️  GET /static/debug_toolbar/js/utils.js | IP: 127.0.0.1
+[2025-08-12 10:07:13,922] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/js/utils.js | ⏱️ 0.03s
+[2025-08-12 10:07:13,924] INFO [myproject] ⬅️  304 GET /static/debug_toolbar/css/print.css | ⏱️ 0.03s
+[2025-08-12 10:07:13,924] INFO [django.server] "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+[2025-08-12 10:07:13,925] INFO [django.server] "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+[2025-08-12 10:07:13,977] INFO [myproject] ➡️  GET /?format=openapi | IP: 127.0.0.1
+[2025-08-12 10:07:13,983] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png | IP: 127.0.0.1
+[2025-08-12 10:07:14,004] INFO [myproject] ⬅️  304 GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png | ⏱️ 0.02s
+[2025-08-12 10:07:14,004] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+[2025-08-12 10:07:14,020] INFO [myproject] ⬅️  200 GET /?format=openapi | ⏱️ 0.04s
+[2025-08-12 10:07:14,020] INFO [django.server] "GET /?format=openapi HTTP/1.1" 200 12888
+[2025-08-12 10:07:14,262] INFO [myproject] ➡️  GET /test/api/v1/__debug__/history_sidebar/?store_id=ba00625f358e443b8bdf704aa1ae7929 | IP: 127.0.0.1
+[2025-08-12 10:07:14,274] INFO [myproject] ⬅️  200 GET /test/api/v1/__debug__/history_sidebar/?store_id=ba00625f358e443b8bdf704aa1ae7929 | ⏱️ 0.01s
+[2025-08-12 10:07:14,274] INFO [django.server] "GET /test/api/v1/__debug__/history_sidebar/?store_id=ba00625f358e443b8bdf704aa1ae7929 HTTP/1.1" 200 10203
+[2025-08-13 11:32:06,040] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-13 11:32:20,921] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-13 11:33:23,594] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-13 11:33:47,613] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-13 11:34:00,123] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/_core/settings/local.py changed, reloading.
+[2025-08-13 11:34:00,444] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-13 11:34:01,863] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/_core/settings/local.py changed, reloading.
+[2025-08-13 11:34:02,178] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-13 11:34:11,657] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/_core/settings/local.py changed, reloading.
+[2025-08-13 11:34:11,992] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-13 11:34:19,288] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-13 11:36:08,639] INFO [django.utils.autoreload] /home/reza/Code/07_joshlong/backend/coreapi/api_endpoints.py changed, reloading.
+[2025-08-13 11:36:08,958] INFO [django.utils.autoreload] Watching for file changes with StatReloader
+[2025-08-13 11:36:31,109] INFO [myproject] ➡️  GET / | IP: 10.10.13.22
+[2025-08-13 11:36:36,232] INFO [myproject] ⬅️  200 GET / | ⏱️ 5.12s
+[2025-08-13 11:36:36,232] INFO [django.server] "GET / HTTP/1.1" 200 2208
+[2025-08-13 11:36:36,246] INFO [myproject] ➡️  GET /static/drf-yasg/style.css | IP: 10.10.13.22
+[2025-08-13 11:36:36,247] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | IP: 10.10.13.22
+[2025-08-13 11:36:36,248] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | IP: 10.10.13.22
+[2025-08-13 11:36:36,248] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | IP: 10.10.13.22
+[2025-08-13 11:36:36,248] INFO [myproject] ➡️  GET /static/drf-yasg/insQ.min.js | IP: 10.10.13.22
+[2025-08-13 11:36:36,248] INFO [myproject] ➡️  GET /static/drf-yasg/immutable.min.js | IP: 10.10.13.22
+[2025-08-13 11:36:36,348] INFO [myproject] ⬅️  200 GET /static/drf-yasg/insQ.min.js | ⏱️ 0.10s
+[2025-08-13 11:36:36,348] INFO [myproject] ⬅️  200 GET /static/drf-yasg/style.css | ⏱️ 0.10s
+[2025-08-13 11:36:36,349] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js | ⏱️ 0.10s
+[2025-08-13 11:36:36,349] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js | ⏱️ 0.10s
+[2025-08-13 11:36:36,349] INFO [myproject] ⬅️  200 GET /static/drf-yasg/immutable.min.js | ⏱️ 0.10s
+[2025-08-13 11:36:36,349] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css | ⏱️ 0.10s
+[2025-08-13 11:36:36,349] INFO [django.server] "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2025-08-13 11:36:36,349] INFO [django.server] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2025-08-13 11:36:36,350] INFO [django.server] "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+[2025-08-13 11:36:36,351] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+[2025-08-13 11:36:36,352] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+[2025-08-13 11:36:36,353] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+[2025-08-13 11:36:36,353] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-init.js | IP: 10.10.13.22
+[2025-08-13 11:36:36,456] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-init.js | ⏱️ 0.10s
+[2025-08-13 11:36:36,456] INFO [django.server] "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 15480
+[2025-08-13 11:36:36,532] INFO [myproject] ➡️  GET /?format=openapi | IP: 10.10.13.22
+[2025-08-13 11:36:36,542] INFO [myproject] ➡️  GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png | IP: 10.10.13.22
+[2025-08-13 11:36:36,634] INFO [myproject] ⬅️  200 GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png | ⏱️ 0.09s
+[2025-08-13 11:36:36,634] INFO [django.server] "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+[2025-08-13 11:36:36,658] INFO [myproject] ⬅️  200 GET /?format=openapi | ⏱️ 0.13s
+[2025-08-13 11:36:36,658] INFO [django.server] "GET /?format=openapi HTTP/1.1" 200 16835

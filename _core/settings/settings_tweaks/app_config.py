@@ -36,6 +36,8 @@ PRODUCTION_APP = [  # noqa: F405
 CUSTOM_APP = [
     "coreapi",
     "app.accounts",
-    "app.dashboard"
+    "app.dashboard",
+    "app.subscribtions",
+    "app.stripe",
 ]
 
